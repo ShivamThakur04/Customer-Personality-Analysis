@@ -5,3 +5,5 @@
 ### An unsupervised clustering model has been implemented using K-means algorithm. The Jupyter notebook can be found [here](https://github.com/ShivamThakur04/Customer-Personality-Analysis/blob/main/WebPurchaseAnalysis.ipynb). The visualisation can be seen [here](https://github.com/ShivamThakur04/Customer-Personality-Analysis/blob/main/Visualisation.JPG)
 ---
 ### A classification model is also presented which uses XGBoost to classify the classes. The Jupyter notebook is available [here](https://github.com/ShivamThakur04/Customer-Personality-Analysis/blob/main/ClassificationModel_XGB.ipynb)
+---
+### The report on both of these topics can be found [here](https://github.com/ShivamThakur04/Customer-Personality-Analysis/blob/main/Report_CustomerPersonalityAnalysis.pdf)
